@@ -1,0 +1,9 @@
+id, name, email,age, 
+1, Alice, alice@example.com, 25, 100.0, 2024-01-10,
+2, Bob, bob@example.com, None, 500.5, 01-12-2024
+3, Charlie, charlie@domain, 30, None, 2024/02/15
+4, David, None, 28, 300.0, 05/03/2024
+5, Eve, eve@example.com, Twenty-Two, 700.75, 2024-01-25
+1, Alice, alice@example.com, 25, 100.0, 2024-01-10
+7, John,   JOHN@GMAIL.COM  , 40, 50.5, Feb 20, 2024
+8, Mike, mike@example.com, 35, NA, 2024-01-30
